@@ -29,9 +29,11 @@ If you have issues, bug reports, etc, please file an issue in this repository's 
 
 ## Support
  
-The AWS Lambda Function is released and distributed as open source software subject to the (LICENSE). 
-Illumio has no obligation or responsibility related to the AWS Lambda Function with respect to support, maintenance, availability, security or otherwise. 
-Please read the entire (LICENSE) for additional information regarding the permissions and limitations. You can engage with the author & contributors team and community on SLACK
+The AWS Lambda Function is released and distributed as open source software subject to the
+[LICENSE](LICENSE). Illumio has no obligation or responsibility related to the AWS Lambda
+Function with respect to support, maintenance, availability, security or otherwise. Please
+read the entire [LICENSE](LICENSE) for additional information regarding the permissions and
+limitations. You can engage with the author & contributors team and community on SLACK.
 
 ## Contributing
 
