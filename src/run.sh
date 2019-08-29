@@ -16,4 +16,4 @@
 
 source ~/.bashrc
 source ~/.bash_profile
-python3.6 sec-hub-connector/app.py
+python3.6 sec_hub_connector/app.py
