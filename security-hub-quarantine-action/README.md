@@ -5,10 +5,12 @@
 
 
 **Project Description**
+
 This repo contains the code for lambda function that allows users to take custom action on critical
 Illumio findings in AWS Security Hub by taking the Quarantine action on the workload in Illumio PCE
 
 **Project Technology stack** 
+
 The lambda function is written in python3.6 and can run in a virtual environment with python3.6
 
 **Project workflow** 
