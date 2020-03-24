@@ -73,5 +73,5 @@ Instructions on how to contribute:  [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Links
 
- * Screencast showing the Integration working https://labs.illumio.com
+ * Screencast demonstrating the project https://labs.illumio.com/dynamically-mitigate-potential-attacks-on-your-aws-environment
  * Illumio documentation page for configuring Illumio ASP https://support.illumio.com/public/documentation/index.html
